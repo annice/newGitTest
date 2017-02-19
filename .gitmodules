@@ -1,0 +1,6 @@
+[submodule "GitInPracSubModule"]
+	path = GitInPracSubModule
+	url = https://github.com/annice/GitInPracSubModule.git
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/annice/GitInPracSubModule.git
